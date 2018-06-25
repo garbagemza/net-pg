@@ -1,5 +1,5 @@
 [package]
-name = "net-pg"
+name = "netpg"
 version = "0.1.0"
 authors = ["garbagemza <garbagemza@gmail.com>"]
 
